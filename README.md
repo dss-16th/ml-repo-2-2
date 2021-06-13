@@ -22,7 +22,7 @@
 </br>
 
 ## 구조
-<img src="https://user-images.githubusercontent.com/73205057/118068960-3c41f800-b3de-11eb-9393-5c9a5c85e554.png" width="600">
+<img src="https://user-images.githubusercontent.com/73205057/121798273-4a469b00-cc60-11eb-8186-8eb0ff275a28.png" width="600">
 
 </br>
 
