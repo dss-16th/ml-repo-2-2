@@ -1,6 +1,10 @@
 # MACHINE LEARNING PROJECT
 ### w/ SOCAR DATA
-#### 2021. 03. 29. -  2021. 04. 27.
+- 기간: 2021. 03. 29. -  2021. 04. 27.
+- [이경무](https://github.com/rudan916)/ EDA, 데이터 전처리, 모델링, 발표 자료 작성, 🐥
+- [장혜임](https://github.com/mieyhgnaj)/ EDA, 데이터 전처리, 결측치 처리, 모델링, 발표 자료 작성, README
+- [정민주](https://github.com/meiren13)/ EDA, 발표
+- 👉🏻 [발표자료](https://drive.google.com/file/d/1Ki1n_pvHpPSOxmVc-iYbEm2Uiil0jdKB/view?usp=sharing)
 
 </br>
 
@@ -127,9 +131,3 @@ fraud인 데이터와 fraud가 아닌 데이터의 컬럼 간에 불균형 존�
 - 더 많은 데이터가 있었으면 스코어를 더 낼 수 있지 않았을까..
 - EDA를 통해 알게 된 내용을 활용하지 못해 아쉽다.
 
-</br>
-
-## 팀원/ 역할
-- 이경무/ EDA, 데이터 전처리, 모델링, 발표 자료 작성, 🐥
-- 장혜임/ EDA, 데이터 전처리, 결측치 처리, 모델링, 발표 자료 작성, README
-- 정민주/ EDA, 발표
